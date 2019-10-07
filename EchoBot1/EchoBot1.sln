@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoBot1", "EchoBot1\EchoBot1.csproj", "{1A253633-71E6-48EE-A7F5-3A19BE551842}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EchoBot1ML.Model", "EchoBot1ML.Model\EchoBot1ML.Model.csproj", "{ED79F56E-E2CB-49F3-8CA7-BA451B735DFB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EchoBot1ML.ConsoleApp", "EchoBot1ML.ConsoleApp\EchoBot1ML.ConsoleApp.csproj", "{E92EEEBA-D3F1-4A4E-B702-821E5B6D323D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A253633-71E6-48EE-A7F5-3A19BE551842}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A253633-71E6-48EE-A7F5-3A19BE551842}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A253633-71E6-48EE-A7F5-3A19BE551842}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A253633-71E6-48EE-A7F5-3A19BE551842}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED79F56E-E2CB-49F3-8CA7-BA451B735DFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED79F56E-E2CB-49F3-8CA7-BA451B735DFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED79F56E-E2CB-49F3-8CA7-BA451B735DFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED79F56E-E2CB-49F3-8CA7-BA451B735DFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E92EEEBA-D3F1-4A4E-B702-821E5B6D323D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E92EEEBA-D3F1-4A4E-B702-821E5B6D323D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E92EEEBA-D3F1-4A4E-B702-821E5B6D323D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E92EEEBA-D3F1-4A4E-B702-821E5B6D323D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B9C3CC6-A062-4FA1-8A3C-362C10179913}
+	EndGlobalSection
+EndGlobal

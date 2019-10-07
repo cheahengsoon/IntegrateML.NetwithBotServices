@@ -1,0 +1,10 @@
+C:\Users\engsooncheah\source\repos\EchoBot1\EchoBot1ML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\engsooncheah\source\repos\EchoBot1\EchoBot1ML.Model\bin\Debug\netstandard2.0\EchoBot1ML.Model.deps.json
+C:\Users\engsooncheah\source\repos\EchoBot1\EchoBot1ML.Model\bin\Debug\netstandard2.0\EchoBot1ML.Model.dll
+C:\Users\engsooncheah\source\repos\EchoBot1\EchoBot1ML.Model\bin\Debug\netstandard2.0\EchoBot1ML.Model.pdb
+C:\Users\engsooncheah\source\repos\EchoBot1\EchoBot1ML.Model\obj\Debug\netstandard2.0\EchoBot1ML.Model.csprojAssemblyReference.cache
+C:\Users\engsooncheah\source\repos\EchoBot1\EchoBot1ML.Model\obj\Debug\netstandard2.0\EchoBot1ML.Model.csproj.CoreCompileInputs.cache
+C:\Users\engsooncheah\source\repos\EchoBot1\EchoBot1ML.Model\obj\Debug\netstandard2.0\EchoBot1ML.Model.AssemblyInfoInputs.cache
+C:\Users\engsooncheah\source\repos\EchoBot1\EchoBot1ML.Model\obj\Debug\netstandard2.0\EchoBot1ML.Model.AssemblyInfo.cs
+C:\Users\engsooncheah\source\repos\EchoBot1\EchoBot1ML.Model\obj\Debug\netstandard2.0\EchoBot1ML.Model.dll
+C:\Users\engsooncheah\source\repos\EchoBot1\EchoBot1ML.Model\obj\Debug\netstandard2.0\EchoBot1ML.Model.pdb
